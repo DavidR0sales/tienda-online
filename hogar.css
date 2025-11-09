@@ -1,0 +1,42 @@
+.titulo {
+    background-color: #F2C91B;
+    font-weight: 600;
+    font-size: 32px;
+    color: #000000;
+    box-shadow: 10px 10px 5px #F58D05;
+    text-align: center;
+    margin-top: -2rem;
+    margin-left: -1rem;
+    margin-right: -1rem;
+}
+
+#anuncios{
+    width: 250;
+    height: 220;
+    box-shadow: 0px 10px #0000FF;
+}
+
+.hogar {
+    margin-top: 6;
+    margin-left: -1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+figure {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    color: #808080;
+    box-shadow: 0px 10px 5px #F2C91B;
+}
+input{
+    margin-top: 3rem;
+    margin-left: 8rem;
+    background-color: #F2C91B;
+    color: #000000;
+}
